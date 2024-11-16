@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto de teste de regressão do aplicativo Urban Routes.
 
-## 🛠️ Descrição do Projeto
+## 📱 Descrição do Projeto
 O Urban Routes é um aplicativo que ajuda usuários a planejar rotas, calcular custos e tempo de viagem para diferentes meios de transporte. Este repositório contém o projeto de Teste de Regressão, realizado para garantir que as funcionalidades existentes continuem funcionando corretamente após atualizações ou correções de bugs.
 
 ## 🎯 Objetivo
@@ -27,9 +27,9 @@ Exemplo de Resultados:
 <img width="709" alt="BR-1 - Firefox" src="https://github.com/user-attachments/assets/76c48b02-702c-47a6-9ca1-05d50095c76a">
 
 ## 🔍 Habilidades Testadas
-- Teste de Fumaça: Verificação rápida das principais funcionalidades do aplicativo para garantir que ele está funcional.
-- Teste de Regressão: Execução de casos de teste para assegurar que mudanças no código não introduziram novos bugs.
-- Relatório de Bugs: Documentação dos bugs encontrados durante os testes, incluindo ID, título, descrição dos passos para reprodução, resultado esperado e real, e prioridade.
+- Teste de Fumaça (🔍 ): Verificação rápida das principais funcionalidades do aplicativo para garantir que ele está funcional.
+- Teste de Regressão (✅): Execução de casos de teste para assegurar que mudanças no código não introduziram novos bugs.
+- Relatório de Bugs (🐛): Documentação dos bugs encontrados durante os testes, incluindo ID, título, descrição dos passos para reprodução, resultado esperado e real, e prioridade.
 
 ## Como o Projeto foi Realizado
 - Preparação do Ambiente: Iniciamos o servidor do Urban Routes e verificamos se todos os componentes estavam funcionando corretamente.
