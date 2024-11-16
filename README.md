@@ -19,7 +19,9 @@ Os testes de regressão confirmaram:
 Exemplo de Resultados:
 - Foram encontrados 5 bugs relacionados ao cálculo de rota no modo "Flash".
 - Todos os bugs relatados foram corrigidos antes da aprovação final.
+
 📊 Captura de Tela (exemplo):
+
 <img width="1062" alt="Screenshot 2024-11-16 at 15 02 24" src="https://github.com/user-attachments/assets/392cf844-1169-4085-8807-e23def8b1ded">
 
 <img width="709" alt="BR-1 - Firefox" src="https://github.com/user-attachments/assets/76c48b02-702c-47a6-9ca1-05d50095c76a">
