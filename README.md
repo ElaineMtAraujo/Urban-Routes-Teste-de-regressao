@@ -11,7 +11,9 @@ Garantir que as funcionalidades do aplicativo permaneçam estáveis e confiávei
 ## 🏆 Resultados Esperados
 
 Os testes de regressão confirmaram:
+
 ✅ Estabilidade das funcionalidades após alterações no código.
+
 ✅ Detecção e documentação de bugs críticos.
 
 Exemplo de Resultados:
