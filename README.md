@@ -37,7 +37,11 @@ Execução dos Casos de Teste: Foram executados os casos de teste definidos prev
 - Relatório de Bugs: Todos os bugs encontrados foram documentados, e os relatórios de bugs foram vinculados aos casos de teste que falharam.
   
 ## 📂  Estrutura dos Arquivos
-Urban Routes teste de regressão.xlsx: Planilha contendo todos os casos de teste executados, incluindo status e IDs de bugs.  
+
+📄 Urban Routes teste de regressão.xlsx
+
+Planilha contendo todos os casos de teste executados, incluindo status e IDs de bugs associados.
+
 
 ## Conclusão
 O projeto foi concluído com sucesso, com todos os testes executados e os bugs relatados conforme necessário. Nenhuma mudança adicional foi necessária, visto que o projeto foi aprovado em sua forma atual.
