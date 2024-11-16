@@ -65,9 +65,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
 
 1. Faça um fork deste repositório.
 
-2. Crie uma branch para sua contribuição:
-
-git checkout -b minha-contribuicao
+2. Crie uma branch para sua contribuição: git checkout -b minha-contribuicao
 
 3. Envie um pull request explicando suas alterações.
 
