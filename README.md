@@ -42,7 +42,9 @@ O projeto foi concluído com sucesso, com todos os testes executados e os bugs r
 ## 💡 Possíveis Melhorias
 
 🔹 Automatizar os testes mais críticos para reduzir o esforço manual.
+
 🔹 Adicionar validações de acessibilidade nas rotas sugeridas pelo aplicativo.
+
 🔹 Expandir os casos de teste para cobrir diferentes idiomas e configurações regionais.
 
 
