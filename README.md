@@ -53,7 +53,9 @@ O projeto foi concluído com sucesso, com todos os testes executados e os bugs r
 ## 📋 Como Usar
 
 1️⃣ Clone este repositório:
+
 git clone https://github.com/seu-usuario/Urban-Routes-Teste-de-Regressao.git
+
 2️⃣ Acesse o arquivo Urban Routes teste de regressão.xlsx para consultar os casos de teste e os relatórios de bugs.
 
 
@@ -62,8 +64,11 @@ git clone https://github.com/seu-usuario/Urban-Routes-Teste-de-Regressao.git
 Contribuições são bem-vindas! Siga os passos abaixo para colaborar:
 
 1. Faça um fork deste repositório.
+
 2. Crie uma branch para sua contribuição:
+
 git checkout -b minha-contribuicao
+
 3. Envie um pull request explicando suas alterações.
 
 ## 🕒 Atualizações Recentes
